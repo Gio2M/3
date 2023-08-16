@@ -45,7 +45,7 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más 
 ## Contacto
 Si tienes alguna pregunta o comentario, no dudes en contactarme a través de gio75388@gmail.com.
 
-Créditos
+## Créditos
 Coingecko API
 Pandas
 Matplotlib
