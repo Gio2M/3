@@ -1,0 +1,148 @@
+{
+  "id": "dogecoin",
+  "symbol": "doge",
+  "name": "Dogecoin",
+  "asset_platform_id": null,
+  "platforms": {
+    "": ""
+  },
+  "detail_platforms": {
+    "": {
+      "decimal_place": null,
+      "contract_address": ""
+    }
+  },
+  "block_time_in_minutes": 1,
+  "hashing_algorithm": "Scrypt",
+  "categories": [
+    "BNB Chain Ecosystem",
+    "Meme",
+    "Cryptocurrency"
+  ],
+  "public_notice": null,
+  "additional_notices": [],
+  "description": {
+    "en": "Dogecoin is a cryptocurrency based on the popular \"Doge\" Internet meme and features a Shiba Inu on its logo. Dogecoin is a <a href=\"/coins/litecoin\">Litecoin</a> fork. Introduced as a \"joke currency\" on 6 December 2013, Dogecoin quickly developed its own online community and reached a capitalization of US$60 million in January 2014. Compared with other cryptocurrencies, Dogecoin had a fast initial coin production schedule: 100 billion coins were in circulation by mid-2015, with an additional 5.256 billion coins every year thereafter. As of 30 June 2015, the 100 billionth Dogecoin had been mined. \r\n\r\nDogecoin was created by Billy Markus from Portland, Oregon and  Jackson Palmer from Sydney, Australia. Both wanted to create a fun cryptocurrency that will appeal beyond the core Bitcoin audience. Dogecoin is primarily used as a tipping system on Reddit and Twitter where users tip each other for creating or sharing good content. The community is very active in organising fundraising activities for deserving causes.\r\n\r\nThe developers of Dogecoin haven’t made any major changes to the coin since 2015. This means that Dogecoin could get left behind and is why Shibas are leaving Dogecoin to join more advanced platforms like Ethereum. One of Dogecoin strengths is its relaxed and fun-loving community. However, this is also a weakness because other currencies are way more professional.\r\n\r\nTo purchase Dogecoin, it involves downloading a crypto wallet, setting up a crypto exchange account and then trading away for your desired crypto currency. Once we have set up an account with a DOGE currency exchange and deposited some funds, you are ready to start trading. "
+  },
+  "links": {
+    "homepage": [
+      "http://dogecoin.com/",
+      "",
+      ""
+    ],
+    "blockchain_site": [
+      "https://blockchair.com/dogecoin",
+      "https://doge.tokenview.io/",
+      "http://dogechain.info/chain/Dogecoin",
+      "https://3xpl.com/dogecoin",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "official_forum_url": [
+      "",
+      "",
+      ""
+    ],
+    "chat_url": [
+      "",
+      "",
+      ""
+    ],
+    "announcement_url": [
+      "",
+      ""
+    ],
+    "twitter_screen_name": "dogecoin",
+    "facebook_username": "OfficialDogecoin",
+    "bitcointalk_thread_identifier": 361813,
+    "telegram_channel_identifier": "",
+    "subreddit_url": "https://www.reddit.com/r/dogecoin/",
+    "repos_url": {
+      "github": [
+        "https://github.com/dogecoin/dogecoin",
+        "https://github.com/dogecoin/libdohj"
+      ],
+      "bitbucket": []
+    }
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/5/thumb/dogecoin.png?1547792256",
+    "small": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png?1547792256",
+    "large": "https://assets.coingecko.com/coins/images/5/large/dogecoin.png?1547792256"
+  },
+  "country_origin": "",
+  "genesis_date": "2013-12-08",
+  "sentiment_votes_up_percentage": 55,
+  "sentiment_votes_down_percentage": 45,
+  "watchlist_portfolio_users": 504932,
+  "market_cap_rank": 8,
+  "coingecko_rank": 6,
+  "coingecko_score": 65.012,
+  "developer_score": 75.114,
+  "community_score": 71.666,
+  "liquidity_score": 66.788,
+  "public_interest_score": 0.01,
+  "community_data": {
+    "facebook_likes": null,
+    "twitter_followers": 3842059,
+    "reddit_average_posts_48h": 0,
+    "reddit_average_comments_48h": 0,
+    "reddit_subscribers": 0,
+    "reddit_accounts_active_48h": 0,
+    "telegram_channel_user_count": null
+  },
+  "developer_data": {
+    "forks": 2795,
+    "stars": 14318,
+    "subscribers": 847,
+    "total_issues": 1170,
+    "closed_issues": 1023,
+    "pull_requests_merged": 1206,
+    "pull_request_contributors": 158,
+    "code_additions_deletions_4_weeks": {
+      "additions": 0,
+      "deletions": 0
+    },
+    "commit_count_4_weeks": 0,
+    "last_4_weeks_commit_activity_series": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ]
+  },
+  "public_interest_stats": {
+    "alexa_rank": 145564,
+    "bing_matches": null
+  },
+  "status_updates": [],
+  "last_updated": "2023-08-14T05:34:11.950Z"
+}

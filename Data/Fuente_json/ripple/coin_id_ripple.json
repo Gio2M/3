@@ -1,0 +1,146 @@
+{
+  "id": "ripple",
+  "symbol": "xrp",
+  "name": "XRP",
+  "asset_platform_id": null,
+  "platforms": {
+    "": ""
+  },
+  "detail_platforms": {
+    "": {
+      "decimal_place": null,
+      "contract_address": ""
+    }
+  },
+  "block_time_in_minutes": 0,
+  "hashing_algorithm": null,
+  "categories": [
+    "Cryptocurrency"
+  ],
+  "public_notice": null,
+  "additional_notices": [],
+  "description": {
+    "en": "Ripple is the catchall name for the cryptocurrency platform, the transactional protocol for which is actually XRP, in the same fashion as <a href=\"https://www.coingecko.com/en/coins/ethereum\">Ethereum</a> is the name for the platform that facilitates trades in Ether. Like other cryptocurrencies, Ripple is built atop the idea of a distributed ledger network which requires various parties to participate in validating transactions, rather than any singular centralized authority. That facilitates transactions all over the world, and transfer fees are far cheaper than the likes of bitcoin. Unlike other cryptocurrencies, XRP transfers are effectively immediate, requiring no typical confirmation time.\r\n\r\nRipple was originally founded by a single company, <a href=\"https://www.crunchbase.com/organization/ripple-labs\">Ripple Labs</a>, and continues to be backed by it, rather than the larger network of developers that continue <a href=\"https://www.coingecko.com/en/coins/bitcoin\">bitcoin’s</a> development. It also doesn’t have a fluctuating amount of its currency in existence. Where bitcoin has a continually growing pool with an eventual maximum, and Ethereum theoretically has no limit, Ripple was created with all of its 100 billion XRP tokens right out of the gate. That number is maintained with no mining and most of the tokens are owned and held by Ripple Labs itself — around 60 billion at the latest count.\r\n\r\nEven at the recently reduced value of around half a dollar per XRP, that means Ripple Labs is currently sitting on around $20 billion worth of the cryptocurrency (note: Ripple’s price crashed hard recently, and may be worth far less than $60 billion by time you read this). It holds 55 billion XRP in an escrow account, which allows it to sell up to a billion per month if it so chooses in order to fund new projects and acquisitions. Selling such an amount would likely have a drastic effect on the cryptocurrency’s value, and isn’t something Ripple Labs plans to do anytime soon.\r\n\r\nIn actuality, Ripple Labs is looking to leverage the technology behind XRP to allow for faster banking transactions around the world. While Bitcoin and other cryptocurrencies are built on the idea of separating financial transactions from the financial organizations of traditional currencies, Ripple is almost the opposite in every sense.\r\n\r\nXRP by Ripple price can be found on this page alongside the market capitalization and additional stats.\r\n\r\n"
+  },
+  "links": {
+    "homepage": [
+      "https://ripple.com/currency/",
+      "",
+      ""
+    ],
+    "blockchain_site": [
+      "https://blockchair.com/ripple",
+      "https://xrpcharts.ripple.com",
+      "https://xrpscan.com/",
+      "https://bithomp.com/explorer/",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "official_forum_url": [
+      "https://www.xrpchat.com",
+      "",
+      ""
+    ],
+    "chat_url": [
+      "",
+      "",
+      ""
+    ],
+    "announcement_url": [
+      "",
+      ""
+    ],
+    "twitter_screen_name": "Ripple",
+    "facebook_username": "rippleofficial",
+    "bitcointalk_thread_identifier": null,
+    "telegram_channel_identifier": "",
+    "subreddit_url": "https://www.reddit.com/r/ripple",
+    "repos_url": {
+      "github": [
+        "https://github.com/ripple/rippled",
+        "https://github.com/ripple/ripple-lib"
+      ],
+      "bitbucket": []
+    }
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/44/thumb/xrp-symbol-white-128.png?1605778731",
+    "small": "https://assets.coingecko.com/coins/images/44/small/xrp-symbol-white-128.png?1605778731",
+    "large": "https://assets.coingecko.com/coins/images/44/large/xrp-symbol-white-128.png?1605778731"
+  },
+  "country_origin": "",
+  "genesis_date": null,
+  "sentiment_votes_up_percentage": 80.23,
+  "sentiment_votes_down_percentage": 19.77,
+  "watchlist_portfolio_users": 567192,
+  "market_cap_rank": 5,
+  "coingecko_rank": 3,
+  "coingecko_score": 66.223,
+  "developer_score": 83.005,
+  "community_score": 51.794,
+  "liquidity_score": 81.07,
+  "public_interest_score": 0.022,
+  "community_data": {
+    "facebook_likes": null,
+    "twitter_followers": 2676747,
+    "reddit_average_posts_48h": 0,
+    "reddit_average_comments_48h": 0,
+    "reddit_subscribers": 0,
+    "reddit_accounts_active_48h": 0,
+    "telegram_channel_user_count": null
+  },
+  "developer_data": {
+    "forks": 1462,
+    "stars": 4345,
+    "subscribers": 511,
+    "total_issues": 1233,
+    "closed_issues": 922,
+    "pull_requests_merged": 546,
+    "pull_request_contributors": 49,
+    "code_additions_deletions_4_weeks": {
+      "additions": 85,
+      "deletions": -6
+    },
+    "commit_count_4_weeks": 3,
+    "last_4_weeks_commit_activity_series": [
+      0,
+      3,
+      3,
+      2,
+      4,
+      1,
+      2,
+      0,
+      1,
+      0,
+      2,
+      1,
+      1,
+      0,
+      0,
+      0,
+      1,
+      1,
+      2,
+      0,
+      0,
+      0,
+      1,
+      1,
+      1,
+      0,
+      0,
+      0
+    ]
+  },
+  "public_interest_stats": {
+    "alexa_rank": 23989,
+    "bing_matches": null
+  },
+  "status_updates": [],
+  "last_updated": "2023-08-14T05:31:50.796Z"
+}

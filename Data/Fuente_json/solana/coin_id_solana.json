@@ -1,0 +1,151 @@
+{
+  "id": "solana",
+  "symbol": "sol",
+  "name": "Solana",
+  "asset_platform_id": null,
+  "platforms": {
+    "": ""
+  },
+  "detail_platforms": {
+    "": {
+      "decimal_place": null,
+      "contract_address": ""
+    }
+  },
+  "block_time_in_minutes": 0,
+  "hashing_algorithm": null,
+  "categories": [
+    "Alleged SEC Securities",
+    "Layer 1 (L1)",
+    "Solana Ecosystem",
+    "Smart Contract Platform"
+  ],
+  "public_notice": null,
+  "additional_notices": [],
+  "description": {
+    "en": "\r\nSolana is a highly functional open source project that banks on blockchain technology’s permissionless nature to provide decentralized finance (DeFi) solutions. It is a layer 1 network that offers fast speeds and affordable costs. While the idea and initial work on the project began in 2017, Solana was officially launched in March 2020 by the Solana Foundation with headquarters in Geneva, Switzerland."
+  },
+  "links": {
+    "homepage": [
+      "https://solana.com/",
+      "",
+      ""
+    ],
+    "blockchain_site": [
+      "https://solscan.io/",
+      "https://explorer.solana.com/",
+      "https://solanabeach.io/",
+      "https://solana.fm/",
+      "https://www.oklink.com/sol",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "official_forum_url": [
+      "https://docs.solana.com/",
+      "",
+      ""
+    ],
+    "chat_url": [
+      "",
+      "",
+      ""
+    ],
+    "announcement_url": [
+      "https://medium.com/solana-labs",
+      "https://forums.solana.com/"
+    ],
+    "twitter_screen_name": "solana",
+    "facebook_username": "",
+    "bitcointalk_thread_identifier": null,
+    "telegram_channel_identifier": "solana",
+    "subreddit_url": "https://www.reddit.com/r/solana",
+    "repos_url": {
+      "github": [
+        "https://github.com/solana-labs/solana"
+      ],
+      "bitbucket": []
+    }
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/4128/thumb/solana.png?1640133422",
+    "small": "https://assets.coingecko.com/coins/images/4128/small/solana.png?1640133422",
+    "large": "https://assets.coingecko.com/coins/images/4128/large/solana.png?1640133422"
+  },
+  "country_origin": "",
+  "genesis_date": null,
+  "sentiment_votes_up_percentage": 75.71,
+  "sentiment_votes_down_percentage": 24.29,
+  "ico_data": {
+    "ico_start_date": null,
+    "ico_end_date": null,
+    "short_desc": "High-Performance Blockchain",
+    "description": null,
+    "links": {},
+    "softcap_currency": "",
+    "hardcap_currency": "",
+    "total_raised_currency": "",
+    "softcap_amount": null,
+    "hardcap_amount": null,
+    "total_raised": null,
+    "quote_pre_sale_currency": "",
+    "base_pre_sale_amount": null,
+    "quote_pre_sale_amount": null,
+    "quote_public_sale_currency": "",
+    "base_public_sale_amount": 0,
+    "quote_public_sale_amount": 0,
+    "accepting_currencies": "",
+    "country_origin": "",
+    "pre_sale_start_date": null,
+    "pre_sale_end_date": null,
+    "whitelist_url": "https://solana.com/presale/",
+    "whitelist_start_date": null,
+    "whitelist_end_date": null,
+    "bounty_detail_url": "",
+    "amount_for_sale": null,
+    "kyc_required": true,
+    "whitelist_available": true,
+    "pre_sale_available": null,
+    "pre_sale_ended": false
+  },
+  "watchlist_portfolio_users": 552530,
+  "market_cap_rank": 10,
+  "coingecko_rank": 4,
+  "coingecko_score": 65.857,
+  "developer_score": 89.605,
+  "community_score": 50.646,
+  "liquidity_score": 74.593,
+  "public_interest_score": 0.104,
+  "community_data": {
+    "facebook_likes": null,
+    "twitter_followers": 2264910,
+    "reddit_average_posts_48h": 0,
+    "reddit_average_comments_48h": 0,
+    "reddit_subscribers": 0,
+    "reddit_accounts_active_48h": 0,
+    "telegram_channel_user_count": 53223
+  },
+  "developer_data": {
+    "forks": 3118,
+    "stars": 10531,
+    "subscribers": 270,
+    "total_issues": 4971,
+    "closed_issues": 4292,
+    "pull_requests_merged": 22352,
+    "pull_request_contributors": 388,
+    "code_additions_deletions_4_weeks": {
+      "additions": 65432,
+      "deletions": -60780
+    },
+    "commit_count_4_weeks": 180,
+    "last_4_weeks_commit_activity_series": []
+  },
+  "public_interest_stats": {
+    "alexa_rank": 83508,
+    "bing_matches": null
+  },
+  "status_updates": [],
+  "last_updated": "2023-08-14T05:36:47.772Z"
+}

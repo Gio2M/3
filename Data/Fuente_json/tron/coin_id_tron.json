@@ -1,0 +1,182 @@
+{
+  "id": "tron",
+  "symbol": "trx",
+  "name": "TRON",
+  "asset_platform_id": null,
+  "platforms": {
+    "": ""
+  },
+  "detail_platforms": {
+    "": {
+      "decimal_place": null,
+      "contract_address": ""
+    }
+  },
+  "block_time_in_minutes": 0,
+  "hashing_algorithm": "Delegated Proof-of-Stake",
+  "categories": [
+    "Alleged SEC Securities",
+    "Smart Contract Platform"
+  ],
+  "public_notice": null,
+  "additional_notices": [],
+  "description": {
+    "en": "What is Tron?\r\nTron's mission is to build a truly decentralized internet and aims to be the largest blockchain-based operating system in the world, known as the TRON protocol. The TRON protocol will offer high scalability, high availability, and high throughput computing to serve decentralized applications via smart contracts. Ethereum EVM-based smart contracts will be compatible and deployable on the TRON network as such Solidity developers do not have to rewrite their applications.\r\n\r\nWhy Tron?\r\nSince TRON protocol does not rely on proof of work or mining, instead governed by nodes located around the world, it is decentralized while providing high throughput for transactions on the blockchain. This is suitable for dapps that require high speed transactions especially games. There are a number of tokens already issued on the TRON network and the <a href=\"https://www.coingecko.com/en/exchanges/trx_market\">decentralized exchanges TRX.market</a> has launched.\r\n\r\nOn July 24th 2018, TRON acquired BitTorrent, one of the largest P2P file sharing protocol. As a result of the acquisition, <a href=\"https://www.coingecko.com/en/coins/bittorrent\">BitTorrent Token (BTT)</a> was launched as the cryptocurrency to power the economics on the BitTorrent network. The Token will be used to inceltivize file sharing and storage within the network.\r\n"
+  },
+  "links": {
+    "homepage": [
+      "https://tron.network",
+      "",
+      ""
+    ],
+    "blockchain_site": [
+      "https://tronscan.org/",
+      "https://trx.tokenview.io",
+      "https://www.oklink.com/trx",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "official_forum_url": [
+      "",
+      "",
+      ""
+    ],
+    "chat_url": [
+      "https://discord.com/invite/hqKvyAM",
+      "",
+      ""
+    ],
+    "announcement_url": [
+      "https://medium.com/tron-foundation",
+      ""
+    ],
+    "twitter_screen_name": "trondao",
+    "facebook_username": "tronfoundation",
+    "bitcointalk_thread_identifier": null,
+    "telegram_channel_identifier": "tronnetworkEN",
+    "subreddit_url": "https://www.reddit.com/r/Tronix",
+    "repos_url": {
+      "github": [
+        "https://github.com/tronprotocol/java-tron",
+        "https://github.com/tronprotocol/grpc-gateway",
+        "https://github.com/tronprotocol/protocol",
+        "https://github.com/tronprotocol/tron-contracts",
+        "https://github.com/tronprotocol/wallet-cli"
+      ],
+      "bitbucket": []
+    }
+  },
+  "image": {
+    "thumb": "https://assets.coingecko.com/coins/images/1094/thumb/tron-logo.png?1547035066",
+    "small": "https://assets.coingecko.com/coins/images/1094/small/tron-logo.png?1547035066",
+    "large": "https://assets.coingecko.com/coins/images/1094/large/tron-logo.png?1547035066"
+  },
+  "country_origin": "CN",
+  "genesis_date": "2017-08-28",
+  "sentiment_votes_up_percentage": 40.91,
+  "sentiment_votes_down_percentage": 59.09,
+  "ico_data": {
+    "ico_start_date": "2017-08-31T00:00:00.000Z",
+    "ico_end_date": "2017-09-02T00:00:00.000Z",
+    "short_desc": "TRON is a blockchain-based, open-source protocol for the global digital entertainment industry. TRON supports various kinds of blockchain networks and smart contract systems",
+    "description": null,
+    "links": {},
+    "softcap_currency": "",
+    "hardcap_currency": "",
+    "total_raised_currency": "USD",
+    "softcap_amount": null,
+    "hardcap_amount": null,
+    "total_raised": "70000000.0",
+    "quote_pre_sale_currency": "",
+    "base_pre_sale_amount": null,
+    "quote_pre_sale_amount": null,
+    "quote_public_sale_currency": "USD",
+    "base_public_sale_amount": 1,
+    "quote_public_sale_amount": 0.0019,
+    "accepting_currencies": "ETH,BTC",
+    "country_origin": "CN",
+    "pre_sale_start_date": null,
+    "pre_sale_end_date": null,
+    "whitelist_url": "",
+    "whitelist_start_date": null,
+    "whitelist_end_date": null,
+    "bounty_detail_url": "",
+    "amount_for_sale": "70000000.0",
+    "kyc_required": true,
+    "whitelist_available": null,
+    "pre_sale_available": null,
+    "pre_sale_ended": false
+  },
+  "watchlist_portfolio_users": 227469,
+  "market_cap_rank": 11,
+  "coingecko_rank": 13,
+  "coingecko_score": 60.859,
+  "developer_score": 79.56,
+  "community_score": 47.88,
+  "liquidity_score": 67.924,
+  "public_interest_score": 0.02,
+  "community_data": {
+    "facebook_likes": null,
+    "twitter_followers": 1425299,
+    "reddit_average_posts_48h": 0.5,
+    "reddit_average_comments_48h": 0.5,
+    "reddit_subscribers": 126276,
+    "reddit_accounts_active_48h": 53,
+    "telegram_channel_user_count": 55528
+  },
+  "developer_data": {
+    "forks": 1339,
+    "stars": 3426,
+    "subscribers": 372,
+    "total_issues": 1233,
+    "closed_issues": 1207,
+    "pull_requests_merged": 3171,
+    "pull_request_contributors": 183,
+    "code_additions_deletions_4_weeks": {
+      "additions": 188,
+      "deletions": -68
+    },
+    "commit_count_4_weeks": 14,
+    "last_4_weeks_commit_activity_series": [
+      0,
+      0,
+      0,
+      2,
+      5,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      1,
+      3,
+      1,
+      0,
+      0
+    ]
+  },
+  "public_interest_stats": {
+    "alexa_rank": 28670,
+    "bing_matches": null
+  },
+  "status_updates": [],
+  "last_updated": "2023-08-14T05:37:52.409Z"
+}
